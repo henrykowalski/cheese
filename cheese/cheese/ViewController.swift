@@ -4,7 +4,7 @@
 //
 //  Created by Andrzej Palec on 12/04/2017.
 //  Copyright © 2017 Andrzej Palec. All rights reserved.
-//
+// ...  😍
 
 import UIKit
 
@@ -30,8 +30,8 @@ class ViewController: UIViewController {
         coolLabel.text = "Řekl jsem Hellou!"
         print("button1tapped")
         tapCount1 = tapCount1 + 1
-        if tapCount1 >= 20 {
-            coolLabel.text = "Tlacitko1 jsi zmacknul minimalne 20x"
+        if tapCount1 >= 15 {
+            coolLabel.text = "Tlacitko1 jsi zmacknul minimalne 15x"
     }
     }
     
